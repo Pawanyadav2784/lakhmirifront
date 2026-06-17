@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /checkout
+Disallow: /my-orders
+Disallow: /order-tracking/
+Disallow: /wishlist
+Disallow: /seller/
+Disallow: /admin
+
+Sitemap: https://lakhmiri.com/sitemap.xml
